@@ -1,0 +1,31 @@
+1. AI problems, foundation of AI and history of AI intelligent agents: Agents and 
+Environments, the concept of rationality, the nature of environments, structure of 
+agents, problem solving agents, problem formulation. 
+6
+ 2. Searching- Searching for solutions, uniformed search strategies – Breadth first 
+search, depth first Search. Search with partial information (Heuristic search) Hill 
+climbing, A* ,AO* Algorithms, Problem reduction, Game Playing-Adversial search, 
+Games, mini-max algorithm, optimal decisions in multiplayer games, Problem in 
+Game playing, Alpha-Beta pruning, Evaluation functions.
+ 8
+ 3. Knowledge representation issues, predicate logic- logic programming, semantic 
+nets- frames and inheritance, constraint propagation, representing knowledge using 
+rules, rules based deduction systems. Reasoning under uncertainty, review of 
+probability, Baye’s probabilistic interferences and dempstershafer theory.
+ 8
+ 4. First order logic. Inference in first order logic, propositional vs. first order inference, 
+unification & lifts forward chaining, Backward chaining, Resolution, Learning from 
+observation Inductive learning, Decision trees, Explanation based learning, Statistical 
+Learning methods , Reinforcement Learning.
+ 8
+ 5. Expert systems:- Introduction, basic concepts, structure of expert systems, the 
+human element in expert systems how expert systems works, problem areas 
+addressed by expert systems, expert systems success factors, types of expert 
+systems, expert systems and the internet interacts web, knowledge engineering, 
+scope of knowledge, difficulties, in knowledge acquisition methods of knowledge 
+acquisition, machine learning, intelligent agents, selecting an appropriate knowledge 
+acquisition method, societal impacts reasoning in artificial intelligence, inference 
+with rules, with frames: model based reasoning, case based reasoning, explanation 
+& meta knowledge inference with uncertainty representing uncertainty.
+ 10
+ 6 Applications of AI.

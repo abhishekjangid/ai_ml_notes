@@ -1,0 +1,5 @@
+Code Minimax: https://colab.research.google.com/drive/1iQuv1CCvVCtxOk6GZrxe6WVL0SSew59b?usp=sharing
+https://raphsilva.github.io/utilities/minimax_simulator/
+http://homepage.ufp.pt/jtorres/ensino/ia/alfabeta.html
+https://youtu.be/_i-lZcbWkps?si=KyNox5ONpXuLeXVc
+

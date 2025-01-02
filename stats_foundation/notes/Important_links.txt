@@ -1,0 +1,14 @@
+Probability statistics and RV
+
+https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php
+
+geometric view on orthogonal projections
+https://www.youtube.com/watch?v=2dGXQwYDaqU
+
+Linear Algebra
+https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6
+
+Curve fitting
+
+https://www.youtube.com/watch?v=YwZYSTQs-Hk&t=458s
+https://www.youtube.com/watch?v=Qy1YAKZDA7k&list=PLU6SqdYcYsfL1Mrdj7bs2A6bQOU7FMqKX

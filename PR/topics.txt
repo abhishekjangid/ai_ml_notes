@@ -1,0 +1,25 @@
+- Decision boundary
+- chain codes
+- Joint probability, marginal & conditional probability 
+- Bayes rule
+- Error probability 
+- Loss functions
+- 2-category classification problem 
+- minimum error rate classification
+- zero-one loss fn
+- discriminant fns
+- conditional risk & bayes min risk
+- uni & multivariate NDF
+- Normal/gaussian distribution fn
+- variance & co-variance
+
+
+The topics which we're prepared for:
+- Variance & co-variance
+- chain codes
+- joint, marginal, conditional probability & bayes rule
+- error probability 
+- loss functions
+- 2-category classification problem
+- minimum error rate classification 
+- zero-one loss fn
